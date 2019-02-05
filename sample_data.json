@@ -1,0 +1,522 @@
+{
+  "2019-01-31 09:00 UTC": {
+    "air_temperature": -5,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.33,
+    "humidity": 94,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 7
+  },
+  "2019-01-31 10:00 UTC": {
+    "air_temperature": -4.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -5.33,
+    "humidity": 95,
+    "pressure": 752.33,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5.67
+  },
+  "2019-01-31 11:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -4.33,
+    "humidity": 94.67,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 12:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -4,
+    "humidity": 94.67,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 13:00 UTC": {
+    "air_temperature": -4.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -4.67,
+    "humidity": 91.67,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 14:00 UTC": {
+    "air_temperature": -5,
+    "cloudiness": 0,
+    "dew_point_temperature": -5.67,
+    "humidity": 90.67,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 15:00 UTC": {
+    "air_temperature": -5,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 91,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 16:00 UTC": {
+    "air_temperature": -5,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 91,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 17:00 UTC": {
+    "air_temperature": -5,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 90.33,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 18:00 UTC": {
+    "air_temperature": -4.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -4.67,
+    "humidity": 93.33,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 19:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -4.67,
+    "humidity": 93.67,
+    "pressure": 752.67,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-01-31 20:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -5,
+    "humidity": 93,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4.33
+  },
+  "2019-01-31 21:00 UTC": {
+    "air_temperature": -4.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -4.33,
+    "humidity": 92.33,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-01-31 22:00 UTC": {
+    "air_temperature": -5.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -4.67,
+    "humidity": 92.67,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4.67
+  },
+  "2019-01-31 23:00 UTC": {
+    "air_temperature": -6.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -5,
+    "humidity": 93,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 5
+  },
+  "2019-02-01 00:00 UTC": {
+    "air_temperature": -7.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -5.67,
+    "humidity": 93,
+    "pressure": 752.33,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4.33
+  },
+  "2019-02-01 01:00 UTC": {
+    "air_temperature": -8.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.67,
+    "humidity": 96.33,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 02:00 UTC": {
+    "air_temperature": -9,
+    "cloudiness": 0,
+    "dew_point_temperature": -7,
+    "humidity": 96,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3.33
+  },
+  "2019-02-01 03:00 UTC": {
+    "air_temperature": -9,
+    "cloudiness": 0,
+    "dew_point_temperature": -7,
+    "humidity": 95.67,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-01 04:00 UTC": {
+    "air_temperature": -9,
+    "cloudiness": 0,
+    "dew_point_temperature": -7.67,
+    "humidity": 94.67,
+    "pressure": 752,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3.67
+  },
+  "2019-02-01 05:00 UTC": {
+    "air_temperature": -9,
+    "cloudiness": 0,
+    "dew_point_temperature": -7.33,
+    "humidity": 96.67,
+    "pressure": 752.67,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 06:00 UTC": {
+    "air_temperature": -8.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.33,
+    "humidity": 97.33,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 07:00 UTC": {
+    "air_temperature": -6.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -5.33,
+    "humidity": 95,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 08:00 UTC": {
+    "air_temperature": -5.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -5,
+    "humidity": 92.67,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 09:00 UTC": {
+    "air_temperature": -4.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -5,
+    "humidity": 92,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 10:00 UTC": {
+    "air_temperature": -3.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -3.67,
+    "humidity": 92.67,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 11:00 UTC": {
+    "air_temperature": -2.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -3,
+    "humidity": 95,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 12:00 UTC": {
+    "air_temperature": -2,
+    "cloudiness": 0,
+    "dew_point_temperature": -3,
+    "humidity": 95.33,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 13:00 UTC": {
+    "air_temperature": -2,
+    "cloudiness": 0,
+    "dew_point_temperature": -3,
+    "humidity": 95.67,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 14:00 UTC": {
+    "air_temperature": -2.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -3.67,
+    "humidity": 96.67,
+    "pressure": 753,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 15:00 UTC": {
+    "air_temperature": -3,
+    "cloudiness": 0,
+    "dew_point_temperature": -4.67,
+    "humidity": 97.67,
+    "pressure": 753.67,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 4
+  },
+  "2019-02-01 16:00 UTC": {
+    "air_temperature": -3,
+    "cloudiness": 0,
+    "dew_point_temperature": -5.67,
+    "humidity": 98,
+    "pressure": 754,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3.33
+  },
+  "2019-02-01 17:00 UTC": {
+    "air_temperature": -3,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 98.67,
+    "pressure": 754,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-01 18:00 UTC": {
+    "air_temperature": -3,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 95.67,
+    "pressure": 754,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-01 19:00 UTC": {
+    "air_temperature": -3,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.67,
+    "humidity": 94.67,
+    "pressure": 754,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-01 20:00 UTC": {
+    "air_temperature": -3.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.33,
+    "humidity": 96.33,
+    "pressure": 754.67,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-01 21:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 97.67,
+    "pressure": 755,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-01 22:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 98.67,
+    "pressure": 755,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-01 23:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 99,
+    "pressure": 755,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-02 00:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.67,
+    "humidity": 99,
+    "pressure": 755,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2.33
+  },
+  "2019-02-02 01:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -7,
+    "humidity": 99,
+    "pressure": 755,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2
+  },
+  "2019-02-02 02:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.33,
+    "humidity": 98.33,
+    "pressure": 755,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2
+  },
+  "2019-02-02 03:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.67,
+    "humidity": 97.33,
+    "pressure": 755,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2
+  },
+  "2019-02-02 04:00 UTC": {
+    "air_temperature": -4,
+    "cloudiness": 0,
+    "dew_point_temperature": -6.33,
+    "humidity": 96.33,
+    "pressure": 755.67,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2.67
+  },
+  "2019-02-02 05:00 UTC": {
+    "air_temperature": -3.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -6,
+    "humidity": 95.33,
+    "pressure": 756,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-02 06:00 UTC": {
+    "air_temperature": -3,
+    "cloudiness": 0,
+    "dew_point_temperature": -4,
+    "humidity": 98.33,
+    "pressure": 756,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-02 07:00 UTC": {
+    "air_temperature": -3,
+    "cloudiness": 0,
+    "dew_point_temperature": -2.33,
+    "humidity": 97.33,
+    "pressure": 756,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-02 08:00 UTC": {
+    "air_temperature": -2.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -3.33,
+    "humidity": 94.67,
+    "pressure": 756.67,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 3
+  },
+  "2019-02-02 09:00 UTC": {
+    "air_temperature": -2,
+    "cloudiness": 0,
+    "dew_point_temperature": -2,
+    "humidity": 96.67,
+    "pressure": 757,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2.33
+  },
+  "2019-02-02 10:00 UTC": {
+    "air_temperature": -1.33,
+    "cloudiness": 0,
+    "dew_point_temperature": -1.67,
+    "humidity": 96,
+    "pressure": 757,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2
+  },
+  "2019-02-02 11:00 UTC": {
+    "air_temperature": -1,
+    "cloudiness": 0,
+    "dew_point_temperature": -2,
+    "humidity": 94.33,
+    "pressure": 756.33,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2
+  },
+  "2019-02-02 12:00 UTC": {
+    "air_temperature": -1.67,
+    "cloudiness": 0,
+    "dew_point_temperature": -2,
+    "humidity": 95.33,
+    "pressure": 756.67,
+    "rain_intensity": 0,
+    "snow_intensity": 0,
+    "wind_speed": 2
+  }
+}
